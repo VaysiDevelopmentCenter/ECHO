@@ -3,9 +3,7 @@
 
 ## ECHO: Environmental Characterization via Holographic Observation
 
-**Project Lead:** Vaysi Development Center (VDC)
-
-**Project ECHO** spearheads the development of a revolutionary environmental scanning and imaging technology.  This cutting-edge system leverages the power of holography to capture a rich, 3D representation of the surrounding environment, offering unparalleled detail compared to conventional methods.
+**ECHO** spearheads the development of a revolutionary environmental scanning and imaging technology.  This cutting-edge system leverages the power of holography to capture a rich, 3D representation of the surrounding environment, offering unparalleled detail compared to conventional methods.
 
 **What is ECHO?**
 
