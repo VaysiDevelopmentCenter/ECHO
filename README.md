@@ -1,4 +1,5 @@
-![IMG_0153](https://github.com/VaysiDevelopmentCenter/ECHO/assets/151166631/89fc338c-c7f1-41fd-9bee-39adc0f8607e)
+![image](https://github.com/VaysiDevelopmentCenter/ECHO/assets/151166631/8abe5b47-513a-4c1a-a7d2-1a0b31828ec9)
+
 
 
 ## ECHO: Environmental Characterization via Holographic Observation
