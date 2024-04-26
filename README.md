@@ -23,7 +23,7 @@ ECHO stands for Environmental Characterization via Holographic Observation. It i
 
 **Project Status:**
 
-Project ECHO is currently under development by the VDC team. We are actively researching and developing the core components of the HES (Holographic Environmental Scanning) sensor, including:
+Project ECHO is currently under development by the VDC Foundation. We are actively researching and developing the core components of the HES (Holographic Environmental Scanning) sensor, including:
 
 * High-powered, tunable laser source
 * Programmable Spatial Light Modulator (SLM)
